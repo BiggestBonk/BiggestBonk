@@ -1,5 +1,5 @@
 # Howdy, I'm Harry 👋
-I am a motivated and enthusiastic Fullstack Web Developer hailing from Ōtautahi Christchurch. I have experience working with React, TypeScript, NodeJS and SQLite(using knexjs) to create accessible and intuitive web apps.
+I am a motivated and enthusiastic Fullstack Web Developer hailing from Ōtautahi Christchurch. I have experience working with React, TypeScript, NodeJS and SQLite(using knexjs) to create accessible and intuitive web apps. I'm eager to get out there and start making the change I strive to see!
 ## A Little Bit More About Me
 I have freshly completed my time studying at Dev Academy Aotearoa, where I acquired a suite of skills and broadened my understanding of the world of web development from a technical and social perspective. Learning to make the best of modern web technologies and utilise concepts such as agile methodologies has allowed me to make practical use of my passion for problem-solving and creative mind to build applications I once thought were impossible. Aside from the coding, I am a passionate writer with a love for all things literary. Whereever possible I take the opportunity to use my English skills to enhance the overall feel of what I'm working on, and bring my penchant for detail through to anything I set my mind to.
 ## Projects
