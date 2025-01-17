@@ -5,6 +5,7 @@ I have just recently completed my time studying at Dev Academy Aotearoa, where I
 ## Projects
 [MyCelium](https://my-celium.devacademy.nz/ "Deployed Mycellium Page") is a game project I recently developed alongside a brilliant team whilst finishing my time at Dev Academy. This project is a small farming game, where you cultivate and care for your own mushrooms before harvesting and selling them. Mushroom growth rate is determined by fertiliser level and hydratation, and your primary job as a player is to keep both of those maintained so that your mushrooms grow as fast as possible. Once they've grown to full size, you can harvest them for caps to sell at the market and replant the spores so that the cycle continues!
 
+Review Round-up is a personal project that I created to serve as a hub/blog to see what video games I've played/am currently playing as well as providing a brief opinion on each,and some general information about them. I started this project to get practice making calls to a secure API, as well as just a spot to be able to post some small reviews, which I enjoy writing in my own time.
 
 Sloth Library is a simple website made using React to display a list of books for a librarian that can be checked out to customers, changing their availability. The data for the books and customers are handled using Knex and SQLite3. This was also made as a group project for Dev Academy.
 ## Techstack
