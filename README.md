@@ -15,7 +15,7 @@ Sloth Library is a simple website made using React to display a list of books fo
 - Frontend: TypeScript, React, CSS (Tailwind and Sass), Phaser3
 - Backend: Node.js, Express, Knex, SQLite3
 - Tools: Git, GitHub,Jira (Zephyr Scale),Azure Dev Ops
-- Testing Tools/Frameworks: Vite,Vitest,Jest,Katalon Studio,Playwright,Jmeter,Selenium,Postman
+- Testing Tools/Frameworks: Vite, Vitest, Jest, Katalon Studio, Playwright, Jmeter/Blazemeter, Selenium WD, Postman
   
 ## Find Me At:
 [LinkedIn](https://www.linkedin.com/in/harry-walsh303/)
