@@ -9,14 +9,12 @@ Post Dev Academy, I have leaned heavily into the world of software testing and q
 ## Projects
 MyCelium is a game project I developed alongside a brilliant team as my final project finishing my time at Dev Academy. This project is a small farming game, where you cultivate and care for your own mushrooms before harvesting and selling them. Mushroom growth rate is determined by fertiliser level and hydratation, and your primary job as a player is to keep both of those maintained so that your mushrooms grow as fast as possible. Once they've grown to full size, you can harvest them for caps to sell at the market and replant the spores so that the cycle continues!
 
-Sloth Library is a simple website made using React to display a list of books for a librarian that can be checked out to customers, changing their availability. The data for the books and customers are handled using Knex and SQLite3. One of the key competencies I set out to achieve when working on this project was to create an application with data that can change dynamically without the need to reload the page. This was also made as a group project for Dev Academy.
-
-[Trello API Testing](https://www.postman.com/harry-walsh/workspace/my-workspace/request/39622902-8cc13afd-e43c-41c3-8119-7bf977b3399a?action=share&creator=39622902&ctx=documentation&active-environment=39622902-761f1ad8-5fa3-4ee5-8784-36aa680a341f "Trello API Testing Collection") is a postman collection I created to solidify my ability to test API requests. This collection tests the CRUD operations available on the Trello API for boards,lists, cards and checklists, verifying that each request is functioning as intended and returning the expected data within a reasonable time. One of my primary focuses whilst working on this project was making sure each test was robust and repeatable. I achieved this by using variables to store the IDs of each respective board, list, card and checklist, and then reusing said variables in the subsequent requests.
+Amazon E2E Test Automation is a test automation suite I built for amazon.com.au using Playwright and Typescript. I primarily created this project to solidify my understanding of end-to-end testing using the Page Object Model, and also challenge myself by testing a real-world, live, E-commerce website with a relatively dynamic user-interface. This project was significantly more difficult to put together than I initially expected. I quite enjoyed trying to figure out how to navigate Amazon's UI as the dynamic listings presented a challenge I hadn't faced before. Creating an automation script to filter for a list item that contained a specific button wasn't something I was used to, and it gave me a good reason to chain selectors in a way I didn't think to before.
 
 ## Techstack
 - Frontend: TypeScript, React, CSS (Tailwind and Sass), Phaser3
 - Backend: Node.js, Express, Knex, SQLite3
-- Tools: Git, GitHub,Jira (Zephyr Scale),Azure Dev Ops
+- Tools: Git, GitHub,Jira (Zephyr Scale),Azure Dev Ops, Confluence
 - Testing Tools/Frameworks: Vite, Vitest, Jest, Katalon Studio, Playwright, Jmeter/Blazemeter, Selenium WD, Postman
   
 ## Find Me At:
